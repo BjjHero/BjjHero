@@ -1,54 +1,16 @@
 # Hi, I'm Bjj Hero
 
-Security Software Engineer with 14+ years of experience in secure software development, cryptography, embedded Linux, and platform security.
+Security Software Engineer with 14+ years of experience in secure software development, cryptography, embedded Linux, platform security, and cloud security.
 
-I'm currently building a public portfolio focused on cloud security, Azure security, secure software engineering, and practical cybersecurity labs.
+I build practical security tools and labs focused on Azure, Linux hardening, secure boot, key management, and defensive security.
 
-## Core Expertise
+## Portfolio
 
-- 🔐 Cryptography & Key Management
-- 🛡️ Secure Software Development
-- 💻 Embedded Linux Security
-- 🔑 HSM / TPM Integration
-- 🌐 Secure Communications
-- ⚙️ Platform Security
+🌐 [Visit my portfolio](bjjhero.dev)
 
-## Currently Working On
+## Current Focus
 
-- Microsoft Azure Security (AZ-500)
-- Microsoft Entra ID
-- Azure Key Vault
-- Microsoft Defender for Cloud
-- Microsoft Sentinel
-- Cloud Security Labs
-
-## Featured Repositories
-
-- Azure Security Labs
-- Azure Key Vault
-- Microsoft Sentinel
-- Linux Hardening
-- Secure Boot
-- Cryptography Notes
-
-
-
-<!--
-## Connect
-
-- Email: *(your LinkedIn URL)*
-- Microsoft Learn: *(your Microsoft Learn profile)*
-
-**BjjHero/BjjHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Azure and Microsoft Entra ID security
+- Key Vault and cryptographic key management
+- Microsoft Defender for Cloud and Sentinel
+- Secure software and platform engineering
