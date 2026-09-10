@@ -6,7 +6,7 @@ I build practical security tools and labs focused on Azure, Linux hardening, sec
 
 ## Portfolio
 
-🌐 [Visit my portfolio](bjjhero.dev)
+🌐 bjjhero.dev
 
 ## Current Focus
 
